@@ -1,0 +1,6 @@
+{
+  "name": "Civic Guardian AI",
+  "description": "An AI-powered hyperlocal civic platform empowering citizens to report community issues, analyze severity, predict future risks, and track resolutions with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
